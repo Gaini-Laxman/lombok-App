@@ -15,7 +15,7 @@ public class Person {
 	private Integer personId;
 	private String personName;
 	private String gender;
-	private String phno;
+	private long phno;
 	private Date dob;
 
 }
