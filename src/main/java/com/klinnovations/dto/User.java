@@ -12,6 +12,6 @@ public class User {
 	private String email;
 	private String psw;
 	private String gender;
-	private long phno;
+	private String phno;
 
 }
