@@ -12,7 +12,9 @@ public class Test {
 		p.setGender("Male");
 		Person p3 = new Person();
 		p.setPhno("9110399718");
+
 		String s = "Hello"
+		Int a = 10;
 		System.out.println(p);
 	
 		
