@@ -7,9 +7,9 @@ public class Test {
 		Person p = new Person();
 		p.setPersonId(101);
 		Person p1 = new Person();
-		p.setPersonName("Anitha");
+		p.setPersonName("Laxman");
 		Person p2 = new Person();
-		p.setGender("female");
+		p.setGender("Male");
 		Person p3 = new Person();
 		p.setPhno("9110399718");
 		
